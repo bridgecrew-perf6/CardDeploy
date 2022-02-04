@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CardDeploy/static/css/main.59ba4c83.css",
+    "main.js": "/CardDeploy/static/js/main.d40f34a6.js",
+    "index.html": "/CardDeploy/index.html",
+    "main.59ba4c83.css.map": "/CardDeploy/static/css/main.59ba4c83.css.map",
+    "main.d40f34a6.js.map": "/CardDeploy/static/js/main.d40f34a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59ba4c83.css",
+    "static/js/main.d40f34a6.js"
+  ]
+}
